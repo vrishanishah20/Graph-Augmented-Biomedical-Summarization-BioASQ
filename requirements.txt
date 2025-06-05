@@ -1,0 +1,16 @@
+transformers
+scispacy
+networkx
+py2neo
+torch
+datasets
+neo4j
+colbert-ai 
+scikit-learn
+<<<<<<< HEAD
+pytorch-lightning
+sentencepiece
+spacy
+=======
+pytorch-lightning
+>>>>>>> eca7f5c8f (tokenization done)
